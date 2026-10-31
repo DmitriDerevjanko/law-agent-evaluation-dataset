@@ -47,13 +47,6 @@ Retrieval metrics compare the first five unique retrieved section references wit
 
 These metrics describe retrieval performance. Successful query processing and the presence of citations do not establish that an answer is legally correct or complete.
 
-## Dates and Evaluation Settings
-
-- Evaluation date: 5 October 2026.
-- Requested legal reference date: 31 March 2026.
-- Strict mode: disabled for the main evaluation.
-
-The `as_of_date` field identifies the requested legal reference date, rather than the date on which the evaluation was performed.
 
 ## Limitations
 
